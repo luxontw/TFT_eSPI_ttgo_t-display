@@ -18,6 +18,7 @@
 #define TFT_CS              5
 #define TFT_DC              16
 #define TFT_RST             23
+#define TFT_MISO -1  // use -1 if not in use
 
 #define TOUCH_CS            -1
 
